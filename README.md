@@ -42,5 +42,3 @@ This project showcases a Stock Market Price Predictor that uses historical stock
 - Model training, evaluation, and tuning
 - Data visualization and communication
 
-## 📂 File Structure
-
